@@ -1,3 +1,3 @@
 - 👋 meu nome e wellington brenno
-- 👀 eu ussoo a linguagen de programacção phyton e java script
+- 👀 eu uso a linguagen de programacção phyton e java script
 - 🌱por enquanto to aprendendo
